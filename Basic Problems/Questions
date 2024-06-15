@@ -1,0 +1,18 @@
+Basic Problems
+Array Sum: Write a program to find the sum of all elements in an array.
+Maximum and Minimum: Find the maximum and minimum elements in an array.
+Array Reversal: Reverse the elements of an array.
+Element Search: Write a program to search for an element in an array (linear search).
+Even and Odd Separation: Separate even and odd numbers in an array.
+Intermediate Problems
+Array Rotation: Rotate the array by k positions to the left.
+Second Largest Element: Find the second largest element in an array.
+Unique Elements: Remove duplicate elements from an array.
+Merge Sorted Arrays: Merge two sorted arrays into one sorted array.
+Subarray Sum: Find a subarray with a given sum.
+Advanced Problems
+Longest Consecutive Sequence: Find the longest consecutive sequence of elements in an unsorted array.
+Array Pairs: Find all pairs in an array that sum up to a given number.
+Product Array Puzzle: Construct an array where each element is the product of all elements in the original array except the current element.
+Trapping Rain Water: Find the amount of water that can be trapped between the bars of an elevation map represented by an array.
+Maximum Subarray: Implement Kadane’s algorithm to find the maximum sum subarray in an array.
